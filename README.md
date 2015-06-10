@@ -34,6 +34,11 @@ parser.makePathAbsolute();
 // get a new path out from the system
 var newPathString = parser.svgString();
 
+Examples of some functions are here:
+
+http://jsfiddle.net/ygaheb1k/
+
+
 ```
 There are some useful commands
 
