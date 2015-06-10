@@ -146,5 +146,5 @@ parser.transformPoints( function(p) {
 
 # License
 
-MIT. Or whatever license you feel fits your needs.
+MIT. Or whatever license fits your needs.
 
