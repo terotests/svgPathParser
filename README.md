@@ -21,6 +21,13 @@ Where x1 y1 and x2 and y2 are relative coordinates to the current position are c
 Where all coordinates are absolute coordinates in the same coordinate system. After that you
 can use commands like **transform path** to change the path structure arbitarily, for example
 
+# examples
+
+Examples of some functions are here:
+
+http://jsfiddle.net/ygaheb1k/
+
+
 # usage
 
 ```javascript
@@ -33,10 +40,6 @@ parser.makePathAbsolute();
 
 // get a new path out from the system
 var newPathString = parser.svgString();
-
-Examples of some functions are here:
-
-http://jsfiddle.net/ygaheb1k/
 
 
 ```
