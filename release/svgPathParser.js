@@ -3325,11 +3325,6 @@ var svgPathParser_prototype = function() {
       var cmdStr = str.charAt(0),
         cmd = null;
 
-
-      // console.log("Command : "+cmdStr);
-
-
-
       if (cmdStr == "M") {
         cmd = this.initCmd(cmdStr);
         str = str.substring(1);
