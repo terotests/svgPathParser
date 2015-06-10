@@ -21,6 +21,14 @@ Where x1 y1 and x2 and y2 are relative coordinates to the current position are c
 Where all coordinates are absolute coordinates in the same coordinate system. After that you
 can use commands like **transform path** to change the path structure arbitarily, for example
 
+# known bugs
+
+There are few known bugs in the library
+
+- The Arc element `a` or `A` are not currently supported
+- does not understand "default" command 'line' in very simple paths like `M25.979,12.896,5.979,12.896,5.979,19.562,25.979,19.562z`
+
+
 # examples
 
 Examples of some functions are here:
