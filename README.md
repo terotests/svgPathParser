@@ -143,3 +143,8 @@ parser.transformPoints( function(p) {
     p.x = 60 + -1*(p.x-60);
 })
 ```
+
+# License
+
+MIT. Or whatever license you feel fits your needs.
+
