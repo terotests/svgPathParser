@@ -118,6 +118,11 @@ for( var i=0; i<10; i++)
     parser.replacePartWith(i, fillStr, false );
 ```
 
+Example
+
+http://jsfiddle.net/5t2kqcef/
+
+
 ##svgString
 
 Returns the SVG Path representation which can be used in SVG element like
