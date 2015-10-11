@@ -33,7 +33,7 @@ There are few known bugs in the library
 
 Examples of some functions are here:
 
-http://jsfiddle.net/vjyhxznL/
+http://jsfiddle.net/vjyhxznL/2/
 
 
 # Usage
